@@ -5,10 +5,8 @@ import '../../../domain/domain.dart';
 class StockDetailController extends GetxController with StateMixin<List<StockItemChartData>> {
   StockDetailController(this._iGetStockItemChartUsecase);
 
-  /// inject repo abstraction dependency
   final IGetStockItemChartUsecase _iGetStockItemChartUsecase;
 
-  /// When the controller is initialized, make the http request
   @override
   void onInit() {
     super.onInit();
