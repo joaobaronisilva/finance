@@ -1,16 +1,12 @@
-# financial
+# Financial - Avaliação Guide Investimentos.
 
-A new Flutter project.
+Este projeto foi feito segundo os requerimentos da avaliação. Infelizmente, não houve tempo hábil para realizar os seguintes pontos:
+[ ] - Separa bindings.
+[ ] - Refinamento da Interface.
+[ ] - Ajustes nos Barrel Files.
+[ ] - Testes Unitários e Integração. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ideias que estavam na cabeça, mas não houve tempo de implementar:
+[ ] - Visualização do gráfico em Landscape
+[ ] - Filtros
+[ ] - Pesquisa de ativos
