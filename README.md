@@ -1,7 +1,3 @@
-# Financial - Avaliação Guide Investimentos.
-
-Este projeto foi feito segundo os requerimentos da avaliação. Infelizmente, não houve tempo hábil para realizar os seguintes pontos:
-
 - [ ]  Separar bindings.
 - [ ]  Refinamento da Interface.
 - [ ]  Ajustes nos Barrel Files.
